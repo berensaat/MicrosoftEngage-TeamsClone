@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MicrosoftEngage-TeamsClone
 
 Realtime, Multi-Peer Video calling and chat app with websockets and WebRTC using Node.js, Express and Socket.io with Vanilla JS on the frontend with a flexible and intuitive GUI.
@@ -21,12 +20,8 @@ The app uses WebRTC for peer to peer connection which facilitates Video sharing 
 
 ## Future Scope
 1. Screen Sharing.
-<<<<<<< HEAD
-2.User Authentication
-=======
 2. User Authentication
-3. Games
->>>>>>> 9195de62c0e71fcc0439bca3c846d21f0139929f
+3. Screen Recording
 
 ## Usage
 ```
